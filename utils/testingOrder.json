@@ -1,0 +1,25 @@
+{
+    "shippinginfo":{
+        "address":"123 Main st",
+        "city":"New York",
+        "phoneNo":"988988698",
+        "postalcode":"10001",
+        "state":"NY",
+        "country":"USA"
+    },
+    "orderItems":[
+        {
+            "name":"Pro TShirt",
+            "quantity":1,
+            "image":"https://res.cloudinary.com/dgjk4zdix/image/upload/v1670776461/products/vc1jckfsjvijqxbb3yec.jpg",
+            "price":"599",
+            "product":"639606934d6557c2bf5fd86c"
+        }
+    ],
+    "paymentInfo":{
+        "id":"testing"
+    },
+    "taxAmount":20,
+    "shippingAmount":"60",
+    "totalAmount":"120"
+}
